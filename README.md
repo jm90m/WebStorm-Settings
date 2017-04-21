@@ -19,3 +19,7 @@ To import my settings go into WebStorm and navigate to `File > Import Settings`
 
 ### Incrementing selected lines, you’re going to need to import the plugin `String Manipulation` — Keybound to: `CMD + SHIFT + I`
 ![increment](https://cdn-images-1.medium.com/max/1600/1*tNGhe7pDaBa0omfT4Ecy3A.gif)
+
+### Search for string in entire project - Keybound to: `Ctrl + H`
+
+### Jump to line - Keybound to: `Ctrl + L`
