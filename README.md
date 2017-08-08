@@ -1,6 +1,6 @@
 # WebStorm Tips & Tricks
 
-So after spending my entire undergraduate programming in Java and using Eclipse IDE, I became accustomed to all of the hotkeys in eclipse. I kept the useful keybindings in Eclipse and adopted it into WebStorm. I also found a few helpful plugins in WebStorm that I used in alphabetizing and incrementing selected lines. You can download my settings in this repo or on [Dropbox](https://www.dropbox.com/s/5ti7qwem5pza8ef/jm-webstorm-settings.jar?dl=0).
+So after spending my entire undergraduate programming in Java and using Eclipse IDE, I became accustomed to all of the hotkeys in eclipse. I kept the useful keybindings in Eclipse and adopted it into WebStorm. I also found a few helpful plugins in WebStorm that I used in alphabetizing and incrementing selected lines. You can download my settings in this repo.
 To import my settings go into WebStorm and navigate to `File > Import Settings`
 
 # Here are some useful keybindings:
